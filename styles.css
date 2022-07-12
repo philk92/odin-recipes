@@ -1,0 +1,22 @@
+body {
+  background-color: #1a1b26;
+  color: #a9b1d6;
+  font-family: "SF Pro", sans-serif;
+  text-align: center;
+}
+
+a:link,
+a:hover,
+a:visited {
+  color: #a9b1d6;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 10px;
+  max-width: 500px;
+}
+
+h1 {
+  font-weight: bold;
+}
