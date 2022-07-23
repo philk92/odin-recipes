@@ -1,14 +1,16 @@
 body {
-  background-color: #1a1b26;
-  color: #a9b1d6;
+  background-color: #000;
+  color: #fff;
   font-family: "SF Pro", sans-serif;
   text-align: center;
 }
-
+#mainTitle {
+  margin-top: 100px;
+}
 a:link,
 a:hover,
 a:visited {
-  color: #a9b1d6;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -19,4 +21,7 @@ img {
 
 h1 {
   font-weight: bold;
+}
+ul {
+  font-size: 1.2rem;
 }
